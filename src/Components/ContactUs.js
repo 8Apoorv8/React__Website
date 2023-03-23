@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact__Us = () => {
   return (
-    <div className="bg-[#2a3855] px-10 md:px-28 lg:px-36 xl:px-52 py-24 flex lg:items-center flex-col lg:flex-row gap-8">
+    <div className="bg-[#2a3855] px-10 md:px-28 lg:px-36 xl:px-52 py-14 flex lg:items-center flex-col lg:flex-row gap-8">
       <div className="text-3xl text-white font-extrabold text-center">
         <span className="block lg:inline-block">
           If you have any query related
